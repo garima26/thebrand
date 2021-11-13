@@ -27,4 +27,4 @@ MODEL_FEATURES = ['single',
                  'area_has_buurt',
                  'borough']
 
-TARGET = 'avg_woz'
+TARGET = 'Units_sold'
